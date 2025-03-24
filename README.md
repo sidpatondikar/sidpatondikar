@@ -1,6 +1,6 @@
 # Siddharth Patondikar
 
-
+🐯 Graduate Data Science Student @ RIT
 
 
 
