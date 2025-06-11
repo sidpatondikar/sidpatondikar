@@ -3,6 +3,10 @@
 # 💫 About Me:
 🎓 MS in Data Science at RIT<br><br>📊 Passionate about data engineering, ML & AI<br><br>⚡ Building real-world data solutions and scalable data pipelines<br><br>🔍 Interested in roles involving data-driven insights, ML modeling, and data engineering<br><br>🌐 Open to collaborations and connecting with like-minded professionals
 
+## Website
+[sidpatondikar.web](https://sidpatondikar-web.vercel.app/)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sid-patondikar12/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharth.patondikar@gmail.com) 
