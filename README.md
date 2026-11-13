@@ -2,7 +2,7 @@
 
 I work across data engineering, analytics and machine learning: pipelines that move and clean data, SQL models that make the numbers trustworthy, and ML projects turned into apps you can actually click on.
 
-[Website](https://www.sidpatondikar.com) · [LinkedIn](https://www.linkedin.com/in/sid-patondikar12/) · [Email](mailto:siddharth.patondikar@gmail.com)
+[Website](https://www.sidpatondikar.com) · [LinkedIn](https://www.linkedin.com/in/sidpatondikar/)
 
 ## Tools I use
 
